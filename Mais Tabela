@@ -1,0 +1,21 @@
+<!doctype htmkl>
+<html>
+  <head>
+    <title>Pagina Principal</title>
+  </head>
+  <body>
+    <table boder = "2" width = "100 %">
+      <tr>
+        <th rowspan="2">Desconto</th>
+        <th colspan="2">Cupom 1 R$10</th>
+      </tr>
+      
+      <tr>
+        <td colspan="2">Cupom 2 - R$12</td>
+      </tr>
+      <td>Total</td>
+      <td colspan="2">R$3.478,98</td>
+      </tr>
+    </table>
+  </body>
+</html>
