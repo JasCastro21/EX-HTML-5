@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head
+    <title>UNES - Pagina Inicial</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body background= "imagens/fundo.png">
+    <table boder= "1" width= "900" align= "center">
+  <tr>
+    <td>height="89"<img src="imagens/logo.png"></td>
+    <td align="right">
+      <a href="">Home</a>|
+      <a href="quem-somos.html">Quem Somos</a>|
+      <a href="contatos.htm">Contatos</a>
+    </td>  
+  </tr>    
+  
+  <tr>
+    <td colspan="2">
+    <img src="imagens/capa.png">
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" align = "center">
+  <h2>Sobre o Projeto Unes </h2>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis molestie dolor, a cursus est dignissim et. Phasellus consequat consequat massa, at pulvinar diam malesuada nec. Nulla non tempus sem. Maecenas posuere risus id quam pellentesque, sit amet molestie elit semper. Sed sit amet semper ipsum. Aliquam elit ante, tempor at sapien quis, euismod mollis risus. Phasellus vulputate sapien ac tempus condimentum. Quisque non tempor velit. Aenean lacinia nisl vitae luctus rhoncus. Quisque a ante non lorem pretium maximus lacinia nec turpis. Aenean dictum, lacus non sodales pulvinar, enim elit faucibus velit, accumsan dapibus ligula ligula id velit. Morbi suscipit volutpat luctus.
+  </p>
+
+  </tr>
+  </body>
+    
+</html>
