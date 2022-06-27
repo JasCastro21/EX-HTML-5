@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+  <head
+    <title>Pagina princial</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body>
+    <h2>Login</h2>
+    <form>
+      Login:<br>
+      <input type = "text" name= "Login"><br>
+      Senha:<br>
+      <input type = "password" name="Senha"><br>
+      <input typr = "button" value="Logar"><br>
+    </form>
+    
+    <hr>
+    
+    <form>
+      <h2>Cadastre-se</h2>
+      Login:<br>
+      <input type = "text" name="Login"><br>
+      Sexo: <br>
+      <input type = "radio" = name"sexo" value="M">
+      Masculino<br>
+      <input type = "radio" = name"sexo" value="F">
+      Feminino<br><br>
+      
+      Interesses<br>
+      <input type = "checkbox" name="Interesses">Futebol<br>
+      <input type = "checkbox" name="Interesses">Cursos<br>
+      <input type = "checkbox" name="Interesses">Moda<br><br>
+      
+      Estado<br>
+      <select name= "estados">
+      <option value="SP">SP</option> 
+      <option value="MG">MG</option> 
+      <option value="RJ">RJ</option> 
+      <option value="CE">CE</option> 
+      <option value="BH">BH</option> 
+      </select><br><br>
+      
+      <hr>
+      
+    Observaçoes:<br>
+    <textarea></textarea>
+    <input type = "Submit" value = "Cadastre-se"
+    </form>
+  </body>
+</html>
