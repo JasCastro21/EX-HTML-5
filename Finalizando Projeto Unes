@@ -1,0 +1,126 @@
+index.html
+
+<!doctype html>
+<html>
+    <head
+    <title>UNES - Pagina Inicial</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body background= "imagens/fundo.png">
+    <table boder= "1" width= "900" align= "center">
+  <tr>
+    <td>height="89"<img src="imagens/logo.png"></td>
+    <td align="right">
+      <a href="">Home</a>|
+      <a href="quem-somos.html">Quem Somos</a>|
+      <a href="contatos.htm">Contatos</a>
+    </td>  
+  </tr>    
+  
+  <tr>
+    <td colspan="2">
+    <img src="imagens/capa.png">
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" align = "center">
+  <h2>Sobre o Projeto Unes </h2>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis molestie dolor, a cursus est dignissim et. Phasellus consequat consequat massa, at pulvinar diam malesuada nec. Nulla non tempus sem. Maecenas posuere risus id quam pellentesque, sit amet molestie elit semper. Sed sit amet semper ipsum. Aliquam elit ante, tempor at sapien quis, euismod mollis risus. Phasellus vulputate sapien ac tempus condimentum. Quisque non tempor velit. Aenean lacinia nisl vitae luctus rhoncus. Quisque a ante non lorem pretium maximus lacinia nec turpis. Aenean dictum, lacus non sodales pulvinar, enim elit faucibus velit, accumsan dapibus ligula ligula id velit. Morbi suscipit volutpat luctus.
+  </p>
+
+  </tr>
+  
+  </body>
+    
+</html>
+
+quem-samos.html
+
+<!doctype html>
+<html>
+    <head
+    <title>Quem Somos</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body background= "imagens/fundo2.png">
+    <table boder= "1" width= "900" align= "center">
+  <tr>
+    <td>height="89"<img src="imagens/logo.png"></td>
+    <td align="right">
+      <a href="index.html">Home</a>|
+      <a href="">Quem Somos</a>|
+      <a href="contato.htm">Contatos</a>
+    </td>  
+  </tr>    
+  
+  <tr>
+    <td colspan="2">
+   <h2>Quem Somos</h2>
+   
+   <p>
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis molestie dolor, a cursus est dignissim et. Phasellus consequat consequat massa, at pulvinar diam malesuada nec. Nulla non tempus sem. Maecenas posuere risus id quam pellentesque, sit amet molestie elit semper. Sed sit amet semper ipsum. Aliquam elit ante, tempor at sapien quis, euismod mollis risus. 
+  </p>   
+  <h2> 5 Motivos para estudar na nossa Universidade </h2>
+  <ol>
+    <li>Material Sempre Atualizado</li>
+    <li>Tabletes em salas</li>
+    <li>Professores renomados</li>
+    <li>Universidade bem avaliada</li>
+    <li>Otima localizaçao</li>
+  </ol>
+  
+  <hr>
+  
+  <h2>Objetivos<h2>
+    
+     <p>
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis molestie dolor, a cursus est dignissim et. Phasellus consequat consequat massa, at pulvinar diam malesuada nec. Nulla non tempus sem. Maecenas posuere risus id quam pellentesque, sit amet molestie elit semper. Sed sit amet semper ipsum. Aliquam elit ante, tempor at sapien quis, euismod mollis risus. 
+ 
+    </p>   
+  
+  </html>
+  
+  contato.html
+  
+  <!doctype html>
+<html>
+    <head
+    <title>Quem Somos</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body background= "imagens/fundo2.png">
+    <table boder= "1" width= "900" align= "center">
+  <tr>
+    <td>height="89"<img src="imagens/logo.png"></td>
+    <td align="right">
+      <a href="index.html">Home</a>|
+      <a href="quem-somos.html">Quem Somos</a>|
+      <a href="">Contatos</a>
+    </td>  
+  </tr>    
+  
+  <tr>
+    <td colspan="2">
+   <h2>Entre em contatos</h2>
+   
+   <p>
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis molestie dolor, a cursus est dignissim et. Phasellus consequat consequat massa, at pulvinar diam malesuada nec. Nulla non tempus sem. Maecenas posuere risus id quam pellentesque, sit amet molestie elit semper. Sed sit amet semper ipsum. 
+  </p>   
+  
+  <hr>
+  
+  <form>
+    Seu e-mail: <br>
+    <input type="text" name="email"><br>
+    Assunto: <br>
+    <input type="text" name="assunto"><br>
+    Descriçao: <br>
+    <textarea></textarea><br>
+    <input type="submit" value="enviar">
+  </form>
+  
